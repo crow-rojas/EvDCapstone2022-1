@@ -8,4 +8,4 @@ def top_10_tweets(dataset):
     pass
 
 def top_10_hashtags(dataset):
-    pass
+    print("Top 10 hashtags")
